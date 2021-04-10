@@ -11,7 +11,7 @@ status-website:
   cname: status.revenual.com
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://app.revenual.com/images/logo.svg
+  logoUrl: https://www.revenual.com/favicon.svg
   name: Revenual
   introTitle: "Never miss another revenue opportunity across your entire app business"
   introMessage: Check out the status of our servers
