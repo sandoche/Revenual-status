@@ -4,17 +4,17 @@
     "url": "https://app.revenual.com",
     "icon": "https://favicons.githubusercontent.com/app.revenual.com",
     "slug": "revenual",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 857,
-    "timeDay": 489,
-    "timeWeek": 595,
-    "timeMonth": 651,
-    "timeYear": 828,
+    "timeDay": 417,
+    "timeWeek": 564,
+    "timeMonth": 642,
+    "timeYear": 827,
     "dailyMinutesDown": {}
   }
 ]
