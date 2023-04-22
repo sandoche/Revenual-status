@@ -1,3 +1,5 @@
+⚠️ Repository has been archived. ⚠️
+
 # [📈 Live Status](https://status.revenual.com): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [Sandoche ADITTANE](https://www.sandoche.com), powered by [Upptime](https://github.com/upptime/upptime).
